@@ -32,5 +32,5 @@ To view the stored IP Address
 ```bash
 cat ips.txt
 ```
-# Connect with me
+## Connect with me
 [Gmail](mailto:basiljiji2015@gmail.com)
