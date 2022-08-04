@@ -33,4 +33,4 @@ To view the stored IP Address
 cat ips.txt
 ```
 # Connect with me
-[Gmail](basiljiji2015@gmail.com)
+[Gmail](mailto:basiljiji2015@gmail.com)
