@@ -4,7 +4,7 @@ A Script to Discover IP Address / Devices in a network
 
 ## Installation
 
-Clone the git repository
+Clone the [git](https://github.com/Basil-jiji/IPSweep.git) repository
 ```bash
 git clone https://github.com/Basil-jiji/IPSweep.git
 ```
@@ -33,4 +33,4 @@ To view the stored IP Address
 cat ips.txt
 ```
 # Connect with me
-[Gmail] (basiljiji2015@gmail.com)
+[Gmail](basiljiji2015@gmail.com)
